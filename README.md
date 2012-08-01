@@ -1,4 +1,4 @@
 git-fundamentals
 ================
 
-A introduction to distributed version control using Git.
+An introduction to distributed version control using Git.
